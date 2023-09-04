@@ -1,6 +1,6 @@
 # TypeScript Template for Chrome Extension
 
-This is a simple TypeScript template for the [chrome extension environment](https://developer.chrome.com/docs/).
+This is a simple TypeScript template to start coding [chrome extensions](https://developer.chrome.com/docs/) instantly !
 
 ## Features
 
